@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: violet;
+    background-color: antiquewhite;
+}
+.parrafo {
+    font-size: 20px;
+}
+img {
+    margin-left: 400px;
+    border: 2px solid black;
+}
